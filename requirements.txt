@@ -1,0 +1,13 @@
+streamlit
+pandas
+plotly
+requests
+presidio-analyzer
+presidio-anonymizer
+transformers
+torch
+fairlearn
+scikit-learn
+textblob
+nltk
+spacy
